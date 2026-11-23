@@ -1,0 +1,17 @@
+Invoice No,Date,Customer,Description,Category,Taxable Amount,GST Rate,CGST,SGST,Total GST,Total Amount
+INV002,2026-07-23,SANTHIYA &CO,Employee Salary,Salary Expense,25000.0,18.0,2250.0,2250.0,4500.0,29500.0
+INV003,2026-08-18,ARSHIYA,Rent,Rent Expense,10000.0,18.0,900.0,900.0,1800.0,11800.0
+INV004,2026-09-30,SHRUSHIII,Product sale,Sales,50000.0,18.0,4500.0,4500.0,9000.0,59000.0
+INV005,2027-01-27,A.K. Ajith Kumar,Office Rent,Rent Expense,18500,18,1665.0,1665.0,3330.0,21830.0
+INV006,2027-08-07,Afzal,Salary,Salary Expense,50000.0,18.0,4500.0,4500.0,9000.0,59000.0
+INV007,2027-09-11,Bill David,bought laptop of office use,Office Equipment,35000.0,15.0,2625.0,2625.0,5250.0,40250.0
+INV008,2027-11-25,Mark Antony,salary,Salary Expense,55000.0,18.0,4950.0,4950.0,9900.0,64900.0
+INV009,2027-12-12,Harold Das,bought laptop for office use,Office Equipment,45000.0,18.0,4050.0,4050.0,8100.0,53100.0
+INV010,2027-12-25,Heisenberg,sales,Sales,90000.0,20.0,9000.0,9000.0,18000.0,108000.0
+INV011,2028-06-25,Bill Ram,Computer Repair,Office Equipment,45000,18,4050.0,4050.0,8100.0,53100.0
+INV012,2026-10-06,Test Customer,Laptop purchases,Office Equipment,10000.0,18.0,900.0,900.0,1800.0,11800.0
+INV001,2026-07-28,Ravi,Office Rent,Rent Expense,25000.0,18.0,2250.0,2250.0,4500.0,29500.0
+INV013B,2029-08-25,RDJ,laptop,Office Equipment,67000.0,18.0,6030.0,6030.0,12060.0,79060.0
+INV014,2026-10-07,Step 9 Test,laptop purchase,Office Equipment,50000.0,18.0,4500.0,4500.0,9000.0,59000.0
+INV015,2026-10-07,Final Test,laptop purchase,Office Equipment,10000.0,18.0,900.0,900.0,1800.0,11800.0
+INV016,2026-09-08,Babu,sales,Sales,5500,18,495.0,495.0,990.0,6490.0
